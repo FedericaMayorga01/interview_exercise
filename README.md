@@ -1,7 +1,7 @@
 # Interview exercise: n-indirections Problem
 
 ## Overview
-This is my corrected solution for the n-indirections problem from the OWL interview.
+This is my corrected solution for the n-indirections problem from the OWL-Services interview.
 
 ## What I Learned
 After reviewing my code, I identified the problem I had:
